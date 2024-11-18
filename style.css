@@ -16,8 +16,6 @@
      All dimensions use em-based sizes so that the scale along with the font size.
      Try increasing it to 15px and see what happens. */
   font-size: 8.5px;
-  width: 100%;
-  height: 100%;
   /* The main font color changes the ICON COLORS as well as the text */
   color: #d6fff4;
 }
