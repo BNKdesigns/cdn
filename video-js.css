@@ -337,11 +337,11 @@
   display: block;
   vertical-align: top;
   box-sizing: border-box;
-  color: #d6fff4;
+  color: #fff;
   background-color: #000;
   position: relative;
   padding: 0;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1;
   font-weight: normal;
   font-style: normal;
@@ -497,7 +497,7 @@ body.vjs-full-window {
   border: 0.06666em solid #fff;
   background-color: #2B333F;
   background-color: rgba(43, 51, 63, 0.7);
-  border-radius: 100em;
+  border-radius: 0.3em;
   transition: all 0.4s;
 }
 .vjs-big-play-centered .vjs-big-play-button {
